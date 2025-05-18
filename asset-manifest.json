@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/itami_haisya/static/css/main.e6c13ad2.css",
-    "main.js": "/itami_haisya/static/js/main.b203c285.js",
+    "main.js": "/itami_haisya/static/js/main.e45b5e02.js",
     "static/js/453.1a9791cb.chunk.js": "/itami_haisya/static/js/453.1a9791cb.chunk.js",
     "index.html": "/itami_haisya/index.html",
     "main.e6c13ad2.css.map": "/itami_haisya/static/css/main.e6c13ad2.css.map",
-    "main.b203c285.js.map": "/itami_haisya/static/js/main.b203c285.js.map",
+    "main.e45b5e02.js.map": "/itami_haisya/static/js/main.e45b5e02.js.map",
     "453.1a9791cb.chunk.js.map": "/itami_haisya/static/js/453.1a9791cb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.b203c285.js"
+    "static/js/main.e45b5e02.js"
   ]
 }
